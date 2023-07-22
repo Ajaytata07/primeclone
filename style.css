@@ -168,10 +168,10 @@ header > img {
     line-height: 50px;
 }
 .fire-para {
-    font-size: 21px;
-    font-weight: 300;
+    font-size: 20px;
+    font-weight: 280;
     line-height: 28px;
-    width:800px;
+    width:600px;
     margin: 30px 0;
 }
 .fire-over-image > button {
@@ -207,10 +207,10 @@ header > img {
     line-height: 48px;
 }
 .membership-para{
-    font-size: 21px !important;
-    font-weight: 300;
+    font-size: 20px !important;
+    font-weight: 280;
     line-height: 28px;
-    width: 760px;
+    width: 600px;
     margin-bottom: 30px;
 }
 footer{
